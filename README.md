@@ -2,14 +2,17 @@
 
 
 #Blog Application Assignment (Frontend + Backend)
-Developed a comprehensive blog application using React.js for the frontend with
+
+
+#Developed a comprehensive blog application using React.js for the frontend with
 Material-UI (MUI) for styling, Redux for state management, and a rich text editor to create and
 edit blog posts. The application should also include a theme switcher for toggling between light
 and dark modes. Additionally, implemented a backend to manage CRUD operations for blog
 content, user authentication, users can share blogs with others, specifying permission levels
 (view/edit) for shared access.
 
-Frontend Deliverables:
+#Frontend Deliverables:
+
 1. Core Features:
 ○ Blog Management: Implemented CRUD operations to allow users to create, read,
 update, and delete blog posts.
