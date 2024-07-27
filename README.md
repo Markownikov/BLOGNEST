@@ -59,3 +59,7 @@ Delete).
 - After login, users should be able to see their personal blogs.
 - Users can create, edit, and delete their blogs.
 - Users can share their blogs with others and define access levels (view or edit).
+
+
+  <img src="https://t.bkit.co/w_66a4e6d8d84db.gif" />
+  
