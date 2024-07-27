@@ -13,7 +13,7 @@ content, user authentication, users can share blogs with others, specifying perm
 
 ## Frontend Deliverables:
 
-1. Core Features:
+## Core Features:
 - **Blog Management**: Implemented CRUD operations to allow users to create, read,
 update, and delete blog posts.
 - **Rich Text Editor**: Integrated a rich text editor for blog creation and editing.
@@ -21,7 +21,7 @@ update, and delete blog posts.
 modes.
 - **Responsive UI**: Ensure the UI is responsive and works seamlessly across
 different screen sizes.
-2. Pages and Navigation:
+## Pages and Navigation:
 - **HomePage**: Display a list of featured blogs with their titles, excerpts, and
 publication dates. Included a sidebar or navbar with categories (e.g., Technology,
 Travel, Food, Lifestyle).
@@ -29,10 +29,10 @@ Travel, Food, Lifestyle).
 specific to that category.
 - **Filtering and Search**: Implemented filtering by category and a search option for
 users to find specific blogs.
-- **Blog Details Page: Clicking on a blog title or excerpt should navigate the user to
+- **Blog Details Page**: Clicking on a blog title or excerpt should navigate the user to
 a detailed view of that blog, displaying the full content, image, author, publication
 date, and metadata.
-3. State Management:
+## State Management:
 - Used Redux for centralized state management, ensuring efficient actions and
 reducers.
 Backend Deliverables:
